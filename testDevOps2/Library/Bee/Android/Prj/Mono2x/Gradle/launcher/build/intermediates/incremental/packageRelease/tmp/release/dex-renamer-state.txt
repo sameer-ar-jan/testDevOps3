@@ -1,0 +1,4 @@
+#Tue Apr 23 13:32:26 PKT 2024
+base.0=/Users/apple/Documents/testDevOps3/testDevOps2/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
