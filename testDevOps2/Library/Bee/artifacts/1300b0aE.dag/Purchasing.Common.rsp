@@ -112,6 +112,7 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -130,7 +131,6 @@
 -r:"/Applications/Unity/Hub/Editor/2022.3.11f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.11f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.11f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
--r:"/Applications/Unity/Hub/Editor/2022.3.11f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.11f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -354,10 +354,10 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.11f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.11f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Common/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Common/INativeStore.cs"
-"Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Common/MiniJSON.cs"
-"Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Common/VersionCheck.cs"
+"Library/PackageCache/com.unity.purchasing@4.11.0/Runtime/Common/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.purchasing@4.11.0/Runtime/Common/INativeStore.cs"
+"Library/PackageCache/com.unity.purchasing@4.11.0/Runtime/Common/MiniJSON.cs"
+"Library/PackageCache/com.unity.purchasing@4.11.0/Runtime/Common/VersionCheck.cs"
 -langversion:9.0
 
 /deterministic
